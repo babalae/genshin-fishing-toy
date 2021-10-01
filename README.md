@@ -10,9 +10,11 @@ PC原神自动钓鱼机（支持不同游戏窗口大小、DPI缩放）。『你
 * **容错率高，你可以一直开着自动钓鱼进行传送、跑路、钓鱼**
 * 兼容新活动钓鱼（只是钓鱼条被倒计时计时挤下去了，调整下选区即可）
 
-![](https://gitee.com/babalae/genshin-auto-fish/raw/main/Image/demo.gif)
+![](https://raw.githubusercontent.com/babalae/genshin-fishing-toy/master/Image/demo.gif)
 
 ## 下载地址
+
+[📥Github下载（1.3）](https://github.com/babalae/genshin-fishing-toy/releases/download/v1.3/GenshinAutoFish_v1.3.zip)
 
 [📥Gitee下载（1.3）](https://gitee.com/babalae/genshin-auto-fish/attach_files/839858/download/GenshinAutoFish_v1.3.zip)
 

@@ -375,7 +375,7 @@ namespace GenshinAutoFish
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("https://github.com/babalae/genshin-auto-fish");
+            Process.Start("https://github.com/babalae/genshin-fishing-toy");
         }
 
         private void btnResetArea_Click(object sender, EventArgs e)
