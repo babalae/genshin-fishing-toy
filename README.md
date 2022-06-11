@@ -18,6 +18,8 @@ PC原神自动钓鱼机（支持不同游戏窗口大小、DPI缩放）。『你
 
 [📥Gitee下载（1.3）](https://gitee.com/babalae/genshin-auto-fish/attach_files/839858/download/GenshinAutoFish_v1.3.zip)
 
+**如果你遇到了[内存溢出](https://github.com/babalae/genshin-fishing-toy/issues/18)的问题，或者你是64位的系统，可以直接下载[📥x64版本](https://ws28.cn/f/85ac4rzerwt)**
+
 ## 使用方法
 
 你的系统需要满足以下条件：
@@ -38,3 +40,9 @@ PC原神自动钓鱼机（支持不同游戏窗口大小、DPI缩放）。『你
   * 因为游戏以管理员权限启动，软件不以管理员权限启动的话没法模拟鼠标点击。
 * 会不会封号？
   * 只能说理论上不会被封，但是mhy是自由的，封号理由上有第三方软件这一条。当前使用了 PostMessage 模拟鼠标点击，还是存在被检测的可能。只能说请低调使用，请不要跳脸官方。
+
+## 投喂
+
+觉的好用的话，可以支持作者哟ヾ(･ω･`｡) 👇
+* [⚡爱发电](https://afdian.net/@huiyadanli)
+* [🍚顿顿饭](https://dun.mianbaoduo.com/@huiyadanli)
