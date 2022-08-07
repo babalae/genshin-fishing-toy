@@ -18,7 +18,7 @@ PC原神自动钓鱼机（支持不同游戏窗口大小、DPI缩放）。『你
 
 [📥Gitee下载（1.3）](https://gitee.com/babalae/genshin-auto-fish/attach_files/839858/download/GenshinAutoFish_v1.3.zip)
 
-**如果你遇到了[内存溢出](https://github.com/babalae/genshin-fishing-toy/issues/18)的问题，或者你是64位的系统，可以直接下载[📥x64版本](https://ws28.cn/f/85ac4rzerwt)**
+**如果你遇到了[内存溢出](https://github.com/babalae/genshin-fishing-toy/issues/18)的问题，或者你是64位的系统，可以直接下载[📥x64版本](https://wwn.lanzouy.com/ibNbY05bx50f)**
 
 ## 使用方法
 
