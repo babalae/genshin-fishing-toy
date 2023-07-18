@@ -1,3 +1,5 @@
+作者的其他护肝工具： [🎲七圣召唤自动打牌](https://github.com/babalae/genius-invokation-auto-toy) | [🛠️账号切换](https://github.com/babalae/mihoyo-starter)
+
 # 🐟 原神自动钓鱼机
 
 PC原神自动钓鱼机（支持不同游戏窗口大小、DPI缩放）。『你只需负责甩竿，后面的放着我来！』
