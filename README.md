@@ -1,4 +1,4 @@
-作者的其他护肝工具： [🎲七圣召唤自动打牌](https://github.com/babalae/genius-invokation-auto-toy) | [🛠️账号切换](https://github.com/babalae/mihoyo-starter)
+更多： [🎲七圣召唤自动打牌](https://github.com/babalae/genius-invokation-auto-toy) | [🛠️账号切换](https://github.com/babalae/mihoyo-starter)
 
 # 🐟 原神自动钓鱼机
 
