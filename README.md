@@ -45,7 +45,7 @@ PC原神自动钓鱼机（支持不同游戏窗口大小、DPI缩放）。『你
 
 ## 问题反馈
 
-提 [Issue](https://github.com/babalae/genshin-fishing-toy/issues) 或 QQ群894935931
+提 [Issue](https://github.com/babalae/genshin-fishing-toy/issues) 或 QQ群[894935931](https://qm.qq.com/cgi-bin/qm/qr?k=u9Ij0HrDVQhvcoFvaiQGv38V3R7ZNY6K&jump_from=webapi&authKey=N++f74HhGHDzFje1dDD6E8vzuf45jmSFaPiVbc3Z7x/nTUWGwZ3UdSPqYQqPfOXK)
  
 ## 投喂
 
