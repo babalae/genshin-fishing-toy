@@ -1,4 +1,9 @@
-更多： [🎲七圣召唤自动打牌](https://github.com/babalae/genius-invokation-auto-toy) | [🛠️账号切换](https://github.com/babalae/mihoyo-starter)
+更多：  **[🍨BetterGI · 更好的原神](https://github.com/babalae/better-genshin-impact)** | [🎲七圣召唤自动打牌](https://github.com/babalae/genius-invokation-auto-toy) | [🛠️账号切换](https://github.com/babalae/mihoyo-starter)
+
+# !!! 💡 迁移 💡 !!!
+
+**当前自动钓鱼功能已经迁移至 [🍨BetterGI · 更好的原神](https://github.com/babalae/better-genshin-impact)，无需选区，自动判断是否在钓鱼界面，更加稳定的自动提竿！**
+
 
 # 🐟 原神自动钓鱼机
 
