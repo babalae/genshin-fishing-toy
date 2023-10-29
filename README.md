@@ -2,7 +2,7 @@
 
 # !!! 💡 迁移 💡 !!!
 
-**当前自动钓鱼功能已经迁移至 [🍨BetterGI · 更好的原神](https://github.com/babalae/better-genshin-impact)，无需选区，自动判断是否在钓鱼界面，更加稳定的自动提竿！**
+**当前自动钓鱼功能已经迁移至 [🍨BetterGI · 更好的原神](https://github.com/babalae/better-genshin-impact)，无需选区，自动判断是否在钓鱼界面，更加稳定的自动提竿，还有基于 YOLOv8 的鱼类识别，可以自动换饵抛竿了，可以全自动钓完一个池子的鱼**
 
 
 # 🐟 原神自动钓鱼机
